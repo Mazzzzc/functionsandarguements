@@ -1,2 +1,2 @@
-# functionsandarguements
-isTouching and bounceOff functions.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
